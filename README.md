@@ -1,6 +1,6 @@
 # 👨‍💻 Alejandro Legaspi Rodríguez
 
-### Senior Full Stack Developer
+### Full Stack Developer
 
 🚀 Angular • Node.js • Cloud • AI Integrations  
 
